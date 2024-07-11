@@ -1,0 +1,36 @@
+[SemImageFile]
+Version=1
+InstructName=S-2600N
+FileName=IN718_2_x2000_1.bmp
+SampleName=
+DataNumber=AF-1
+Date=2018/09/28
+Time=14:55:03
+Media=HD[ ]
+DataSize=1280x960
+Magnification=2000
+AcceleratingVoltage=10000 Volt
+EmissionCurrent=36000 nA
+WorkingDistance=24500 um
+SignalName=SE
+SubMagnification=2000
+SubSignalName=SE
+PhotoSize=1000
+Vacuum=High
+MicronMarker=202
+SpecimenBias=0
+Condencer1=0
+CalibrationScanSpeed=0
+LensMode=Normal
+ColorMode=Monochro
+ColorPalette=Custom
+Comment=
+KeyWord1=
+KeyWord2=
+Condition=Vacc=10kV   Mag=x2.0k   WD=24.5mm
+DataDisplayCombine=1
+SplitMode=OFF
+SubVacuum=High
+SubDataNumber=AF-1
+SubAcceleratingVoltage=10000 Volt
+SemVersion=01-10

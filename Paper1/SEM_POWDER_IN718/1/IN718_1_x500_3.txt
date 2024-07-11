@@ -1,0 +1,36 @@
+[SemImageFile]
+Version=1
+InstructName=S-2600N
+FileName=IN718_1_x500_3.bmp
+SampleName=
+DataNumber=AF-6
+Date=2018/09/28
+Time=13:37:42
+Media=HD[ ]
+DataSize=1280x960
+Magnification=500
+AcceleratingVoltage=10000 Volt
+EmissionCurrent=38000 nA
+WorkingDistance=22400 um
+SignalName=SE
+SubMagnification=500
+SubSignalName=SE
+PhotoSize=1000
+Vacuum=High
+MicronMarker=253
+SpecimenBias=0
+Condencer1=0
+CalibrationScanSpeed=0
+LensMode=Normal
+ColorMode=Monochro
+ColorPalette=Custom
+Comment=
+KeyWord1=
+KeyWord2=
+Condition=Vacc=10kV   Mag=x500   WD=22.4mm
+DataDisplayCombine=1
+SplitMode=OFF
+SubVacuum=High
+SubDataNumber=AF-6
+SubAcceleratingVoltage=10000 Volt
+SemVersion=01-10

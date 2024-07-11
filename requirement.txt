@@ -1,0 +1,3 @@
+If you have not install chardet - then run code on your google colab - !pip install chardet
+Upload our data in your google drive named as ME793, then it works well.
+Other than this please ensure sklearn and tensorflow is well installed in your device. 
